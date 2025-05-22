@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hellohashim
+- 🎓 I'm currently doing Bachelors in Computer Science
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on different Projects
+- 📫 Email: muhammadhashim.nazir2004@gmail.com
